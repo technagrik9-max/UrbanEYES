@@ -1,6 +1,8 @@
 # Urban Eyes 👁️
 
-<img width="924" height="924" alt="image" src="https://github.com/user-attachments/assets/a74086fb-dee0-4f05-a091-dda56359c9a8" />
+
+<img width="1024" height="611" alt="image" src="https://github.com/user-attachments/assets/db03985f-9965-47b8-9cdc-beaa1e521d4e" />
+
 
 
 **Be the eyes of your city - transforming scattered pollution complaints into actionable, verified environmental tasks**
