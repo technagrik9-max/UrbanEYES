@@ -1,4 +1,5 @@
-# Urban Eyes 👁️
+<h1 align="center">Urban Eyes 👁️</h1>
+
 
 
 <img width="1024" height="611" alt="image" src="https://github.com/user-attachments/assets/db03985f-9965-47b8-9cdc-beaa1e521d4e" />
