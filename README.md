@@ -1,5 +1,8 @@
 # Urban Eyes 👁️
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a74086fb-dee0-4f05-a091-dda56359c9a8" />
+
+
 **Be the eyes of your city - transforming scattered pollution complaints into actionable, verified environmental tasks**
 
 Urban Eyes empowers citizens to become environmental guardians while providing municipal authorities with verified, evidence-based pollution reports through AI-powered classification and community engagement.
