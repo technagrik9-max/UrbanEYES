@@ -178,5 +178,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 **Urban Eyes: Where Every Citizen Becomes the Watchful Guardian of Their City** 👁️🏙️✨
 ## Video Tutorial
 
-https://github.com/user-attachments/assets/0a27daaf-cb4d-435a-b852-7ca02c92c450
+https://github.com/user-attachments/assets/4a54669a-3343-4f8b-89ab-f01c4360ea87
+
+
 
